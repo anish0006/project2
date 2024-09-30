@@ -32,3 +32,6 @@ Open the Power BI report and load the transformed data.
 
 Explore the interactive dashboards and visualizations to gain insights into sales trends, performance, and more.
 
+![project6](https://github.com/user-attachments/assets/5411fd95-c338-450f-b74b-c3bc5fe0a1f7)
+
+

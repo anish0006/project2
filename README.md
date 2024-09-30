@@ -34,4 +34,6 @@ Explore the interactive dashboards and visualizations to gain insights into sale
 
 ![project6](https://github.com/user-attachments/assets/5411fd95-c338-450f-b74b-c3bc5fe0a1f7)
 
+![project8](https://github.com/user-attachments/assets/bb4a94eb-455a-4932-b8fc-f09f0e62b510)
+
 
